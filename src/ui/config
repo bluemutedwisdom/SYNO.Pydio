@@ -1,0 +1,15 @@
+{
+	".url": {
+		"SYNO.SDS.Pydio": {
+			"type": "url",
+			"allUsers": true,
+			"title": "app:app_name",
+			"desc": "app:description",
+			"icon": "images/Pydio_{0}.png",
+			"texts": "texts",
+			"protocol": "http",
+			"url": "/pydio/",
+			"port": "80"
+		}
+	}
+}
